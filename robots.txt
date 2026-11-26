@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sikjeonbbang.github.io/sitemap.xml
